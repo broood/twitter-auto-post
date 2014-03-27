@@ -1,0 +1,9 @@
+{
+	"name":"twitter-auto-post",
+	"description":"Post to a specified twitter account",
+	"version":"0.0.1",
+	"private":"true",
+	"dependencies":{
+		"oauth":"*"
+	}
+}
